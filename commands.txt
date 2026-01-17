@@ -1,0 +1,12 @@
+git config --global user.name KshamaV24
+git config --global user.email kshamabv24@gmail.com
+
+git init
+Initialized empty Git repository in D:/CS07/lab1/.git/
+
+git add abc.c
+git commit -m "abc.c program committed"
+
+[main (root-commit) created] abc.c program committed
+1 file changed, 4 insertions(+)
+create mode 100644 abc.c
